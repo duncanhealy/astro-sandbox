@@ -8,6 +8,8 @@
     "config.codesandbox"
   ],
   "container": {
-    "port": 3000
-  }
+    "port": 12321
+  },
+  "infiniteLoopProtection": true,
+  "hardReloadOnChange": true
 }
