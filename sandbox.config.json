@@ -1,0 +1,10 @@
+{
+  "template": "node",
+  "node": "14",
+  "packages": [
+    "packages/core"
+  ],
+  "sandboxes": [
+    "config.codesandbox"
+  ]
+}
